@@ -5,3 +5,5 @@
 * Uses Linear, Quadratic, KNN regression models
 
 * Copy the py code to Jupyter notebook or Google Colab
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rajesh1402/master)
